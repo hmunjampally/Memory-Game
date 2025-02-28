@@ -74,10 +74,9 @@ To execute the unit tests, run:
 ```bash
 ./gradlew test
 ```
-
 ## Contribution Guidelines
 Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
+1. Fork the repository. 
 2. Create a new branch: `git checkout -b feature-name`
 3. Make your changes and commit: `git commit -m "Add new feature"`
 4. Push the branch: `git push origin feature-name`
@@ -87,5 +86,5 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
-*Developed by [Your Name / Team Name]*
+*Developed by [Hima Sameera Munjampally, Ranga ChandraMohan, Ravali Gangineni]*
 
